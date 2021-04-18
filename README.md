@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## DELLA FAUZIYYAH HUSNA - 14081020012
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
